@@ -1,0 +1,5 @@
+#!/bin/bash
+pip3 install -U transformers
+pip3 install -U datasets==1.17.0
+pip3 install -U scikit-learn
+pip3 install -U torch
