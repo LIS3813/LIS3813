@@ -17,4 +17,4 @@ sudo apt install python3-pip
 ```
 
 ## presentation pdf
-[위기의 대한민국 발표 ppt.pdf](https://github.com/LIS3813/LIS3813/files/8895720/ppt.pdf)
+[위기의 대한민국.pdf](https://github.com/LIS3813/LIS3813/files/8895726/default.pdf)
