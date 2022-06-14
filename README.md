@@ -15,3 +15,6 @@ LIS3813 텍스트정보처리론 팀프로젝트
 sudo apt install python3-pip
 ./scripts/dependency
 ```
+
+## presentation pdf
+[위기의 대한민국 발표 ppt.pdf](https://github.com/LIS3813/LIS3813/files/8895720/ppt.pdf)
